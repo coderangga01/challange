@@ -5,7 +5,7 @@ function stringManipulation(word) {
           console.log(word); 
         } else {
                     let sisa = word.substring(1); 
-          console.log(sisa + firstChar + "lieur");
+          console.log(sisa + firstChar + "nyo");
         }
       }
 stringManipulation("ayam");
